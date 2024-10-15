@@ -1,6 +1,6 @@
 import { Link } from "../Link.jsx";
 
-export const AboutPage = () => {
+const AboutPage = () => {
   return (
     <>
       <h1>About</h1>
@@ -15,3 +15,4 @@ export const AboutPage = () => {
     </>
   );
 };
+export default AboutPage;
